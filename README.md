@@ -1,8 +1,10 @@
 ### Olá!! Eu sou o Gabriel Pereira 👋🏼
 
-- 👻 Estudando Programação Full Stack
+- 👻 Estudando Programação Full Stack.
 
-- 👾 Futuro desenvolvedor full-stack, onde irei construir minha versão do mundo digital um passo de cada vez.
+- 👾 Futuro desenvolvedor, onde irei construir minha versão do mundo digital um passo de cada vez.
+
+- 📖 Atualmente estou aprendendo ... HTML, CSS, JavaScript..
 
 ##
 
